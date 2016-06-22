@@ -1,0 +1,20 @@
+{
+  "name": "ac-exec-stream",
+  "description": "",
+  "version": "0.0.0",
+  "author": "Oliver Leics <oliver.leics@gmail.com>",
+  "license": "MIT",
+  "repository": "oleics/node-ac-exec-stream",
+  "keywords": [
+    "stream",
+    "streams",
+    "exec",
+    "execute",
+    "react",
+    "reactor"
+  ],
+  "main": "./exec-stream.js",
+  "dependencies": {
+    "ac-parse-stream": "^1.0.0"
+  }
+}
