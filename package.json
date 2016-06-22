@@ -1,6 +1,6 @@
 {
   "name": "ac-exec-stream",
-  "description": "",
+  "description": "Execute promise-returning functions on matching (or all) data in a stream.",
   "version": "0.0.0",
   "author": "Oliver Leics <oliver.leics@gmail.com>",
   "license": "MIT",

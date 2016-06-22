@@ -2,7 +2,7 @@
 ac-exec-stream
 ===============
 
-Execute a promise-returning function on matching (or all) data in a stream.
+Execute promise-returning functions on matching (or all) data in a stream.
 
 Install
 -------
