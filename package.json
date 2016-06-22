@@ -1,7 +1,7 @@
 {
   "name": "ac-exec-stream",
   "description": "Execute promise-returning functions on matching (or all) data in a stream.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Oliver Leics <oliver.leics@gmail.com>",
   "license": "MIT",
   "repository": "oleics/node-ac-exec-stream",
